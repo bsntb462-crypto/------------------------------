@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your skills and projects with a visually stunning portfolio website designed for Computer Science and AI students, featuring interactive elements and a modern aesthetic.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
